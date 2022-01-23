@@ -1,0 +1,25 @@
+{
+  "bank_accounts": [
+    {
+      "number": "927-5651165-251",
+      "branch": "İstanbul Kurumsal Şube / İstanbul",
+      "type": "Vadesiz TL",
+      "availableBalance": 178.73,
+      "balance": -1821.27
+    },
+    {
+      "number": "927-5651165-252",
+      "branch": "İstanbul Kurumsal Şube / İstanbul",
+      "type": "Vadesiz TL",
+      "availableBalance": 523.90,
+      "balance": -1200.45
+    },
+    {
+      "number": "927-5651165-253",
+      "branch": "İstanbul Kurumsal Şube / İstanbul",
+      "type": "Vadesiz TL",
+      "availableBalance": 10.73,
+      "balance": -524.10
+    }
+  ]
+}
